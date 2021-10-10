@@ -4,7 +4,7 @@ This repository contains documentation and code for object detection. The primar
 
 ## Contributing to this repository
 
-Never push your changes directly to the `main` branch! Create a branch for each high level change you are working on (`documentation` or `new-cv-algorithm` or something). When you've finished working on and testing your code, open a merge request in Github, and describe the changes you've made and what needs to be reviewed by other team members. Don't forget to merge in any new changes from `main` into your branch. Once a couple of team members have reviewed and approved your changes, those changes will be merged into `main`! See [this link](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging) for a quick guide on working with different git branches.
+Never push your changes directly to the `main` branch! Create a branch for each high level change you are working on (`documentation` or `new-cv-algorithm` or something). When you've finished working on and testing your code, open a pull request in Github, and describe the changes you've made and what needs to be reviewed by other team members. Don't forget to merge in any new changes from `main` into your branch. Once a couple of team members have reviewed and approved your changes, those changes will be merged into `main`! See [this link](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging) for a quick guide on working with different git branches.
 
 ## Installation
 
